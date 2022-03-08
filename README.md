@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oRamen
 - 👀 I’m interested in Video Games
 - 🌱 I’m currently learning Code
-- 💞️ I’m looking to collaborate on a progect when I get better at coding
+- 💞️ I’m looking to collaborate on a project when I get better at coding
 - 📫 How to reach me @InfernoRamen on twitter
 
 <!---
